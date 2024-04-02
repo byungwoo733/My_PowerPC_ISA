@@ -3,6 +3,12 @@ Assembly SIMD using Power (PowerPC) ISA
 
 =======================
 
-OpenPower
+[GitHub] OpenPower
 
 https://github.com/open-power
+
+---------------------
+
+Open Power Vector Programming
+
+https://files.openpower.foundation/s/9qzp2KxAsxcgcL3
